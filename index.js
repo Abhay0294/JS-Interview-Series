@@ -8,9 +8,9 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 // WAP to get array of names from given sample array
 
 const sampleArray = [
-  { id: 1, name: 'Abhay' },
-  { id: 2, name: 'Sumit' },
-  { id: 3, name: 'Shaloo' },
+  { id: 1, name: 'Hello' },
+  { id: 2, name: 'World' },
+  { id: 3, name: 'Global' },
 ];
 
 function getNameArray() {
